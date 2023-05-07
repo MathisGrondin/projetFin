@@ -1,0 +1,525 @@
+[
+    {
+        "id": 1,
+        "Nom": "Steam Deck",
+        "Image": "./img/consoles2/modal/SteamDeck.png",
+        "Fabricant": "Valve Corporation",
+        "Generation": "9e",
+        "DateSortie": "25 février 2022",
+        "Type": "Hybride",
+        "Processeur": "AMD Zen 2 4 cœurs 8 threads",
+        "ProcesseurGraph": "AMD RDNA 2",
+        "Stockage": "64 à 512 Go",
+        "Affichage": "1280x800",
+        "Batterie": "2 à 8h",
+        "Logiciel": "SteamOS",
+        "Caracteristiques": 
+        [
+            "Permet de se connecter à la bibliothèque Steam",
+            "Conçu pour les longues sessions de jeu",
+            "Possible de brancher à des écrans externes grâce à la station d'accueil"
+        ]
+    },    
+    {
+        "id": 2,
+        "Nom": "Playdate",
+        "Image": "./img/consoles2/modal/Playdate.png",
+        "Fabricant": "Panic inc.",
+        "Generation": "9e",
+        "DateSortie": "Juin 2021",
+        "Type": "Portable",
+        "Processeur": "ARM Cortex-M7 + ESP32",
+        "ProcesseurGraph": "Non applicable",
+        "Stockage": "4 Go",
+        "Affichage": "400x240",
+        "Batterie": "8h",
+        "Logiciel": "Playdate OS",
+        "Caracteristiques": 
+        [
+            "Jeux téléchargés à chaque semaine",
+            "Possède une manivelle pour contrôler certains jeux",
+            "Possible de le brancher et le transformer en réveil matin"
+        ]
+    },
+    {
+        "id": 3,
+        "Nom": "Xbox Series",
+        "Image": "./img/consoles2/modal/XboxSeries.png",
+        "Fabricant": "Microsoft",
+        "Generation": "9e",
+        "DateSortie": "10 novembre 2020",
+        "Type": "De salon",
+        "Processeur": "AMD Zen2 8 coeurs",
+        "ProcesseurGraph": "AMD RDNA 2",
+        "Stockage": "512 Go à 1 To",
+        "Affichage": "4K",
+        "Batterie": "N/A",
+        "Logiciel": "Xbox system software",
+        "Caracteristiques": 
+        [
+            "Rétro-compatibles avec certains jeux et accessoires de la console Xbox One.",
+            "Possède le ray tracing qui rend les jeux plus réalistes",
+            "Existe 2 modèles avec ou sans lecteur de disques"
+        ]
+    },
+    {
+        "id": 4,
+        "Nom": "PlayStation 5",
+        "Image": "./img/consoles2/modal/PlayStation5.png",
+        "Fabricant": "Sony Interactive Entertainment",
+        "Generation": "9e",
+        "DateSortie": "12 novembre 2020",
+        "Type": "De salon",
+        "Processeur": "AMD Zen2 8 coeurs",
+        "ProcesseurGraph": "AMD RDNA 2",
+        "Stockage": "825 Go",
+        "Affichage": "4K",
+        "Batterie": "N/A",
+        "Logiciel": "PS5 system software",
+        "Caracteristiques": 
+        [
+            "Puce audio plus performante pour une gestion du son en 3D",
+            "Manette avec vibration haptique, gâchettes adaptatives et micro intégré",
+            "Rétrocompatibilité grâce au service en ligne Playstation Now"
+        ]
+    },
+    {
+        "id": 5,
+        "Nom": "Nintendo Switch Lite",
+        "Image": "./img/consoles2/modal/NintendoSwitchLite.png",
+        "Fabricant": "Nintendo",
+        "Generation": "8e",
+        "DateSortie": "20 septembre 2019",
+        "Type": "Portable",
+        "Processeur": "NVIDIA Tegra X1",
+        "ProcesseurGraph": "NVIDIA Tegra personnalisé",
+        "Stockage": "32 Go",
+        "Affichage": "1280p",
+        "Batterie": "3 à 7h",
+        "Logiciel": "Horizon OS",
+        "Caracteristiques": 
+        [
+            "Compatible uniquement en mode portable",
+            "Très bonne autonomie de batterie",
+            "Ne dispose pas des vibrations HD et du capteur de mouvements"
+        ]
+    },
+    {
+        "id": 6,
+        "Nom": "Nintendo Switch",
+        "Image": "./img/consoles2/modal/NintendoSwitch.png",
+        "Fabricant": "Nintendo",
+        "Generation": "8e",
+        "DateSortie": "3 mars 2017",
+        "Type": "Hybride",
+        "Processeur": "Quad-Core Cortex-A57",
+        "ProcesseurGraph": "NVIDIA Tegra 256 coeurs",
+        "Stockage": "32 à 64 Go",
+        "Affichage": "720p",
+        "Batterie": "2,5 à 9h",
+        "Logiciel": "FreeBSD",
+        "Caracteristiques": 
+        [
+            "Jeux en format cartouche",
+            "Compatible avec les figurines Amiibo",
+            "Écran en plastique et cela lui donne l’avantage d’être très résistante"
+        ]
+    },
+    {
+        "id": 7,
+        "Nom": "XBox One X",
+        "Image": "./img/consoles2/modal/XboxOne.png",
+        "Fabricant": "Nintendo",
+        "Generation": "8e",
+        "DateSortie": "22 novembre 2013",
+        "Type": "De Salon",
+        "Processeur": "AMD Custom 8 cœurs",
+        "ProcesseurGraph": "AMD Radeon",
+        "Stockage": "500 Go à 2 To",
+        "Affichage": "1080p",
+        "Batterie": "N/A",
+        "Logiciel": "OneCore",
+        "Caracteristiques": 
+        [
+            "Intégration d’une chambre à vapeur à refroidissement liquide",
+            "Rétro-compatibilité avec les accessoires et jeux de la Xbox 360",
+            "Le design de la manette a été conçu pour améliorer le confort durant le jeu"
+        ]
+    },
+    {
+        "id": 8,
+        "Nom": "PlayStation 4",
+        "Image": "./img/consoles2/modal/PS4.png",
+        "Fabricant": "Sony Interactive Entertainment",
+        "Generation": "8e",
+        "DateSortie": "15 novembre 2013",
+        "Type": "De Salon",
+        "Processeur": "PlayStation 4 APU",
+        "ProcesseurGraph": "PlayStation 4 APU",
+        "Stockage": "500 Go à 1 To",
+        "Affichage": "1080p",
+        "Batterie": "N/A",
+        "Logiciel": "Orbis OS",
+        "Caracteristiques": 
+        [
+            "L’interface est conçue pour être simple, rapide, sociale et personnalisable",
+            "Se connecte avec la PS Vita, smartphones ou tablettes",
+            "Arrivée du PS+ pour le multijoueur en ligne"
+        ]
+    },
+    {
+        "id": 9,
+        "Nom": "Wii U",
+        "Image": "./img/consoles2/modal/WiiU.png",
+        "Fabricant": "Nintendo",
+        "Generation": "8e",
+        "DateSortie": "18 novembre 2012",
+        "Type": "De Salon",
+        "Processeur": "Intel Core i3",
+        "ProcesseurGraph": "AMD Radeon HD",
+        "Stockage": "8 à 32 Go",
+        "Affichage": "854x480",
+        "Batterie": "N/A",
+        "Logiciel": "Wii U software",
+        "Caracteristiques": 
+        [
+            "Destinée aux joueurs occasionnels",
+            "Absence de HD",
+            "Service en ligne limité"
+        ]
+    },   
+    {
+        "id": 10,
+        "Nom": "PlayStation Vita",
+        "Image": "./img/consoles2/modal/PlayStationVita.png",
+        "Fabricant": "Sony Interactive Entertainment",
+        "Generation": "8e",
+        "DateSortie": "22 février 2012",
+        "Type": "Portable",
+        "Processeur": "ARM Cortex-A9 MPCore STI",
+        "ProcesseurGraph": "Imagination Technologies SGX54MP4+",
+        "Stockage": "2 à 64 Go",
+        "Affichage": "960x544",
+        "Batterie": "4h",
+        "Logiciel": "PlayStation Vita system software",
+        "Caracteristiques": 
+        [
+            "Possible de la brancher sur la PS TV",
+            "Compatible avec les manettes DualShock",
+            "Possible de jouer à la plupart des jeux PS4 grâce au Remote Play"
+        ]
+    },   
+    {
+        "id": 11,
+        "Nom": "Nintendo 3DS",
+        "Image": "./img/consoles2/modal/Nintendo3DS.png",
+        "Fabricant": "Nintendo",
+        "Generation": "8e",
+        "DateSortie": "27 mars 2011",
+        "Type": "Portable",
+        "Processeur": "CPU ARM11 double cœur",
+        "ProcesseurGraph": "GPU PICA200",
+        "Stockage": "8 Go",
+        "Affichage": "800x240",
+        "Batterie": "3 à 8h",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Possède un écran tactile et un écran 3D",
+            "Compatible avec le volant Mario Kart, Circle Pad Pro",
+            "Nintendo Network pour le multijoueur en ligne"
+        ]
+    },   
+    {
+        "id": 12,
+        "Nom": "XBox 360",
+        "Image": "./img/consoles2/modal/Xbox360.png",
+        "Fabricant": "Microsoft",
+        "Generation": "7e",
+        "DateSortie": "22 novembre 2005",
+        "Type": "De salon",
+        "Processeur": "IBM Xenon Tri-Core",
+        "ProcesseurGraph": "Xenos",
+        "Stockage": "60 Go",
+        "Affichage": "1080p",
+        "Batterie": "N/A",
+        "Logiciel": "Xbox 360 software",
+        "Caracteristiques": 
+        [
+            "Rétro-compatible avec la Xbox",
+            "Compatible avec le Kinect",
+            "XBox Network pour le multijoueur en ligne"
+        ]
+    },   
+    {
+        "id": 13,
+        "Nom": "Nintendo DS",
+        "Image": "./img/consoles2/modal/NintendoDS.png",
+        "Fabricant": "Nintendo",
+        "Generation": "7e",
+        "DateSortie": "21 novembre 2004",
+        "Type": "Portable",
+        "Processeur": "ARM94E-S",
+        "ProcesseurGraph": "ARM7TDMI",
+        "Stockage": "",
+        "Affichage": "256x192",
+        "Batterie": "6 à 10h",
+        "Logiciel": "Nintendo software",
+        "Caracteristiques": 
+        [
+            "PictoChat permet de discuter avec 16 personnes",
+            "Possible de connecter à la Wii",
+            "Sauvegarde des profils des joueurs"
+        ]
+    },   
+    {
+        "id": 14,
+        "Nom": "Wii",
+        "Image": "./img/consoles2/modal/Wii.png",
+        "Fabricant": "Nintendo",
+        "Generation": "7e",
+        "DateSortie": "19 novembre 2006",
+        "Type": "De Salon",
+        "Processeur": "IBM PowerPC Broadway",
+        "ProcesseurGraph": "ATI Hollywood",
+        "Stockage": "512 Mo",
+        "Affichage": "480p",
+        "Batterie": "N/A",
+        "Logiciel": "Nintendo Wii software",
+        "Caracteristiques": 
+        [
+            "Rétro-compatible avec les jeux GameCube",
+            "Compatible avec la Wii Balance Board, Wii Vitality Sensor",
+            "Existe plusieurs chaînes incluses"
+        ]
+    },   
+    {
+        "id": 15,
+        "Nom": "PlayStation 3",
+        "Image": "./img/consoles2/modal/PS3.png",
+        "Fabricant": "Sony Computer Entertainment",
+        "Generation": "7e",
+        "DateSortie": "17 novembre 2006",
+        "Type": "De Salon",
+        "Processeur": "CELL",
+        "ProcesseurGraph": "Nvidia RSX",
+        "Stockage": "12 à 500 Go",
+        "Affichage": "1080p",
+        "Batterie": "N/A",
+        "Logiciel": "XrossMediaBar 4.90",
+        "Caracteristiques": 
+        [
+            "Possible de télécharger Yellow Dog Linux",
+            "Compatible avec la PS Move et PS Eye",
+            "Permet une connectivité étendue avec la PSP et la PS Vita"
+        ]
+    },   
+    {
+        "id": 16,
+        "Nom": "PlayStation Portable",
+        "Image": "./img/consoles2/modal/PsP.png",
+        "Fabricant": "Sony Computer Entertainment",
+        "Generation": "7e",
+        "DateSortie": "24 mars 2005",
+        "Type": "Portable",
+        "Processeur": "MIPS R4000",
+        "ProcesseurGraph": "3D Curved Surface",
+        "Stockage": "16 Go",
+        "Affichage": "480x272",
+        "Batterie": "4h",
+        "Logiciel": "PlayStation Portable system software",
+        "Caracteristiques": [
+            "Mis à jour régulières",
+            "Possible d'installer un autre système d'exploitation",
+            "Permet aussi de lire des fichiers audio et vidéo"
+        ]
+    },   
+    {
+        "id": 17,
+        "Nom": "Game Boy Advance",
+        "Image": "./img/consoles2/modal/GameBoyAdvance.png",
+        "Fabricant": "Nintendo",
+        "Generation": "6e",
+        "DateSortie": "11 juin 2001",
+        "Type": "Portable",
+        "Processeur": "ARM7TDMI 32 bits",
+        "ProcesseurGraph": "CISC Z80",
+        "Stockage": "",
+        "Affichage": "240x160",
+        "Batterie": "15h",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Nintendo e-Reader permettait de scanner des cartes spéciales",
+            "Possible de jouer à 4 sur la même cartouche",
+            "Permet de jouer à plusieurs si les consoles sont reliées"
+        ]
+    },   
+    {
+        "id": 18,
+        "Nom": "GameCube",
+        "Image": "./img/consoles2/modal/GameCube.png",
+        "Fabricant": "Nintendo",
+        "Generation": "6e",
+        "DateSortie": "18 novembre 2001",
+        "Type": "De Salon",
+        "Processeur": "Gekko",
+        "ProcesseurGraph": "ATI Flipper",
+        "Stockage": "510 Ko",
+        "Affichage": "480p",
+        "Batterie": "N/A",
+        "Logiciel": "Dolphin OS",
+        "Caracteristiques": 
+        [
+            "Compatible avec les Bongo DK et le tapis de danse",
+            "Existe seulement 3 jeux en ligne",
+            "Facile à transporter grâce à son anse"
+        ]
+    },   
+    {
+        "id": 19,
+        "Nom": "PlayStation 2",
+        "Image": "./img/consoles2/modal/PS2.png",
+        "Fabricant": "Sony Computer Entertainment",
+        "Generation": "6e",
+        "DateSortie": "26 octobre 2000",
+        "Type": "De Salon",
+        "Processeur": "Emotion Engine",
+        "ProcesseurGraph": "Graphic Synthesizer",
+        "Stockage": "8 à 128 Mo",
+        "Affichage": "480p",
+        "Batterie": "N/A",
+        "Logiciel": "Sony Game 5.9.3 AMERICAN GEN 3.4 USA",
+        "Caracteristiques": 
+        [
+            "Dispose de plus de 10 000 jeux",
+            "Rétro-compatible avec les jeux PlayStation et ses accessoires",
+            "Existe un kit qui permet de la transformer en PC"
+        ]
+    },   
+    {
+        "id": 20,
+        "Nom": "Nintendo 64",
+        "Image": "./img/consoles2/modal/N64.png",
+        "Fabricant": "Nintendo",
+        "Generation": "5e",
+        "DateSortie": "29 septembre 1996",
+        "Type": "De Salon",
+        "Processeur": "NEC VR4300",
+        "ProcesseurGraph": "Coprocesseur Reality",
+        "Stockage": "4 à 64 Mo",
+        "Affichage": "640x480",
+        "Batterie": "N/A",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Sauvegarde directement sur la cartouche",
+            "Stick analogique multidirectionnelle qui donne beaucoup de mouvements",
+            "Certains jeux exigeaient l'expansion pack pour augmenter la mémoire"
+        ]
+    },   
+    {
+        "id": 21,
+        "Nom": "Super Nintendo",
+        "Image": "./img/consoles2/modal/SNES.png",
+        "Fabricant": "Nintendo",
+        "Generation": "4e",
+        "DateSortie": "23 août 1991",
+        "Type": "De Salon",
+        "Processeur": "Ricoh 5A22",
+        "ProcesseurGraph": "SNES PPU",
+        "Stockage": "",
+        "Affichage": "256x224",
+        "Batterie": "N/A",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Compatible avec le Super Scope et la souris",
+            "Existe 7 modes de couleurs différents",
+            "La console est zonée selon 3 régions (Amériques, Europe et Asie)"
+        ]
+    },   
+    {
+        "id": 22,
+        "Nom": "Game Boy",
+        "Image": "./img/consoles2/modal/GameBoy2.png",
+        "Fabricant": "Nintendo",
+        "Generation": "4e",
+        "DateSortie": "31 juillet 1989",
+        "Type": "Portable",
+        "Processeur": "Sharp LR35902",
+        "ProcesseurGraph": "",
+        "Stockage": "",
+        "Affichage": "160x144",
+        "Batterie": "10h",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Fonctionne avec des cartouches",
+            "Possible de régler l'intensité de la lumière",
+            "Écran monochrome"
+        ]    
+    },
+   
+    {
+        "id": 23,
+        "Nom": "Sega Genesis",
+        "Image": "./img/consoles2/modal/SegaGenesis.png",
+        "Fabricant": "Sega",
+        "Generation": "4e",
+        "DateSortie": "14 août 1989",
+        "Type": "De salon",
+        "Processeur": "Motorola 680000",
+        "ProcesseurGraph": "Zilog Z80",
+        "Stockage": "",
+        "Affichage": "320x224",
+        "Batterie": "N/A",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "Création de Sonic pour le lancement de cette console",
+            "Compatible avec le Sega Menacer et le Sega Activator",
+            "Comprend un logiciel qui gère les comptes"
+        ]
+    },   
+    {
+        "id": 24,
+        "Nom": "NES",
+        "Image": "./img/consoles2/modal/NES.png",
+        "Fabricant": "Nintendo",
+        "Generation": "3e",
+        "DateSortie": "18 octobre 1985",
+        "Type": "De salon",
+        "Processeur": "Ricoh 2A03",
+        "ProcesseurGraph": "Ricoh 8 bits",
+        "Stockage": "",
+        "Affichage": "256x240",
+        "Batterie": "N/A",
+        "Logiciel": "",
+        "Caracteristiques": 
+        [
+            "13e console la plus vendue au monde",
+            "Compatible avec le NES zapper, le power pad et le power glove",
+            "Fonctionne avec des cartouches"
+        ]
+    },
+    {
+        "id": 25,
+        "Nom": "Atari 2600",
+        "Image": "./img/consoles2/modal/Atari2600.png",
+        "Fabricant": "Atari",
+        "Generation": "2e",
+        "DateSortie": "14 octobre 1977",
+        "Type": "De salon",
+        "Processeur": "MOS technology 6507",
+        "ProcesseurGraph": "",
+        "Stockage": "",
+        "Affichage": "40 x 192",
+        "Batterie": "N/A",
+        "Logiciel": "",
+        "Caracteristiques": [
+            "Compatible avec une manette à 1 bouton et un clavier 12 touches",
+            "Faite en bois avec 4 ou 6 commutateurs",
+            "Fonctionne avec des cartouches"
+        ]
+    }]

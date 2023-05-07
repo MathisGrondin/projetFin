@@ -1,0 +1,142 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("../public/img/home2/WallpaperSiteWeb.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+#banniere{
+  /* margin-bottom: 3px; */
+  /* background-image: url("../public/img/home2/BanniereSiteWeb.png"); */
+  /* background-repeat: no-repeat;
+  background-size: contain; */
+  height: auto;
+  padding:0px;
+}
+
+#banniere img{
+  padding: 0;
+}
+
+.carte-info{
+  color: black;
+}
+
+.boutonMenu{
+  border-radius: 0px;
+  border-left: 2px groove black;
+  /* border-top: 3px solid black; */
+  /* border-bottom: 4px solid darkblue;
+  border-top: 4px solid darkblue; */
+  /* margin-bottom: 3px; */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+­#carte{
+  margin-top: 50%;
+}
+
+.background{
+  background-image: url("../public/img/home2/WallpaperSiteWeb.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.abonnement{
+  background-color: grey;
+}
+
+#rechercheConsoles, #rechercheJeux{
+  background-color: lightgray;
+  color: black;
+}
+
+.table{
+  border-bottom: 2px solid darkgray;
+}
+
+.toast{
+  z-index: 11;
+}
+
+/* .card img{
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+/* .card-body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  height: auto;
+} */
+
+.photoCarteJeux .card-header img {
+  border-radius: 4px;
+}
+
+.bouton{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0px;
+  font-weight: bold;
+  color: white;
+  text-decoration-line: none;
+}
+
+.bouton #text{
+  text-decoration-line: none;
+}
+
+.bouton img{
+  margin-right: 5%;
+}
+.recherche{
+  border-left: 2px groove black;
+}
+
+#rechercheConsoles, #rechercheJeux{
+  border-radius: 25px;
+  border: 1px solid black
+  
+}
+
+.inRecherche{
+  margin-right: 3%;
+}
+
+#infosBas{
+  display: flex;
+  flex-direction: row;
+}
+
+.imgJeux{
+  width: 100%;
+  height: 100%;
+}

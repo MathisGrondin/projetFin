@@ -1,0 +1,405 @@
+[
+    {
+        "id": "1",
+        "Nom": "Hogwart Legacy",
+        "Image": "./img/jeux2/HogwartsLegacy.png",
+        "Dev": "Avalanche software",
+        "Realisateur": "Alan Tew",
+        "Compositeur": "Chuck E. Myers",
+        "Genre": "Action-RPG",
+        "DateSortie": "10 février 2023",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 5, XBox Series, PC",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB T",
+        "Site": "https://www.hogwartslegacy.com/fr-ca"
+    }, 
+
+    {
+        "id": "2",
+        "Nom": "Gotham Knights",
+        "Image": "./img/jeux2/GothamKnights.png",
+        "Dev": "WB Games Montréal",
+        "Realisateur": "Patrick Redding",
+        "Compositeur": "The Flight",
+        "Genre": "Action-RPG",
+        "DateSortie": "21 octobre 2022",
+        "Modes": "Solo, Multijoueur",
+        "Plateformes": "PlayStation 5, XBox Series, PC",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.gothamknightsgame.com/fr-fr"
+    }, 
+
+    {
+        "id": "3",
+        "Nom": "Resident Evil 7",
+        "Image": "./img/jeux2/RE7.png",
+        "Dev": "Capcom",
+        "Realisateur": "Koshi Nakanishi",
+        "Compositeur": "Akiyuki Morimoto",
+        "Genre": "Survival horror",
+        "DateSortie": "24 janvier 2017",
+        "Modes": "Solo",            
+        "Plateformes": "PlayStation 4, XBox One, PC, Nintendo Switch",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.residentevil7.com"
+    }, 
+
+    {
+        "id": "4",
+        "Nom": "It takes two",
+        "Image": "./img/jeux2/ItTakesTwo.png",
+        "Dev": "Hazelight Studios",
+        "Realisateur": "Josef Fares",
+        "Compositeur": "Gustaf Grefberg",
+        "Genre": "Aventures - plateforme",
+        "DateSortie": "26 mars 2021",
+        "Modes": "Coopérative",
+        "Plateformes": "PlayStation 4, XBox One, PC",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB T",
+        "Site": "https://www.ea.com/games/it-takes-two?isLocalized=true"
+    }, 
+
+    {
+        "id": "5",
+        "Nom": "Elden Ring",
+        "Image": "./img/jeux2/EldenRing.png",
+        "Dev": "FromSoftware",
+        "Realisateur": "Hidetaka Miyazaki",
+        "Compositeur": "Yuka Kitamura",
+        "Genre": "Action-RPG",
+        "DateSortie": "25 février 2022",
+        "Modes": "Solo, Multijoueur",
+        "Plateformes": "PlayStation 4, XBox One, PC",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://fr.bandainamcoent.eu/elden-ring/elden-ring"
+    }, 
+
+    {
+        "id": "6",
+        "Nom": "PacMan",
+        "Image": "./img/jeux2/Pacman.png",
+        "Dev": "Namco",
+        "Realisateur": "Tōru Iwatani",
+        "Compositeur": "Toshio Kai",
+        "Genre": "Labyrinthe",
+        "DateSortie": "25 octobre 1980",
+        "Modes": "Solo",
+        "Plateformes": "Atari",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB E",
+        "Site": "https://pacman.com/en/"
+    }, 
+
+    {
+        "id": "7",
+        "Nom": "Super Mario Bros 2",
+        "Image": "./img/jeux2/SuperMario2.png",
+        "Dev": "Nintendo",
+        "Realisateur": "Shigeru Miyamoto",
+        "Compositeur": "Kōji Kondō",
+        "Genre": "Plateforme",
+        "DateSortie": "Septembre 1988",
+        "Modes": "Solo",
+        "Plateformes": "NES",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB eC",
+        "Site": ""
+    }, 
+
+    {
+        "id": "8",
+        "Nom": "Sonic the hedgehog",
+        "Image": "./img/jeux2/Sonic.png",
+        "Dev": "Sonic team",
+        "Realisateur": "Sega",
+        "Compositeur": "Masato Nakamura",
+        "Genre": "Plateforme",
+        "DateSortie": "23 juin 1991",
+        "Modes": "Solo",
+        "Plateformes": "Sega Genesis",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB eC",
+        "Site": ""
+    }, 
+
+    {
+        "id": "9",
+        "Nom": "Tetris",
+        "Image": "./img/jeux2/Tetris.png",
+        "Dev": "Nintendo",
+        "Realisateur": "Gunpei Yokoi",
+        "Compositeur": "Hirokazu Tanaka",
+        "Genre": "Puzzles",
+        "DateSortie": "Novembre 1989",
+        "Modes": "Solo",
+        "Plateformes": "NES",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB eC",
+        "Site": ""
+    }, 
+
+    {
+        "id": "10",
+        "Nom": "Street Fighter 2",
+        "Image": "./img/jeux2/StreetFighter2.png",
+        "Dev": "Capcom",
+        "Realisateur": "Yoshiki Okamoto",
+        "Compositeur": "Yoko Shimomura",
+        "Genre": "Combat",
+        "DateSortie": "15 juillet 1992",
+        "Modes": "1 ou 2 joueurs",
+        "Plateformes": "SNES",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB T",
+        "Site": ""
+    }, 
+
+    {
+        "id": "11",
+        "Nom": "Super Mario 64",
+        "Image": "./img/jeux2/SuperMario64.png",
+        "Dev": "Nintendo EAD",
+        "Realisateur": "Shigeru Miyamoto",
+        "Compositeur": "Kōji Kondō",
+        "Genre": "Plateforme",
+        "DateSortie": "26 septembre 1996",
+        "Modes": "Solo",
+        "Plateformes": "Nintendo 64",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB E",
+        "Site": ""
+    }, 
+
+    {
+        "id": "12",
+        "Nom": "Super Smash Bros Melee",
+        "Image": "./img/jeux2/SuperSmashBrosMelee.png",
+        "Dev": "HAL Laboratory",
+        "Realisateur": "Masahiro Sakurai",
+        "Compositeur": "Hirokazu Ando",
+        "Genre": "Combat - Plateforme",
+        "DateSortie": "2 décembre 2001",
+        "Modes": "1 à 4 joueurs",
+        "Plateformes": "GameCube",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB E10+",
+        "Site": ""
+    }, 
+
+    {
+        "id": "13",
+        "Nom": "Final Fantasy X",
+        "Image": "./img/jeux2/FFX.png",
+        "Dev": "SquareSoft",
+        "Realisateur": "Yoshinori Kitase",
+        "Compositeur": "Nobuo Uematsu",
+        "Genre": "Jeu de rôle",
+        "DateSortie": "20 décembre 2001",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 2",
+        "Langue": "Anglais", 
+        "Evaluation": "ESRB E10+",
+        "Site": "https://www.square-enix-games.com/en_US/home"
+    }, 
+
+    {
+        "id": "14",
+        "Nom": "Pokemon Ruby et Sapphire",
+        "Image": "./img/jeux2/PokemonSaphRuby.png",
+        "Dev": "Game Freak",
+        "Realisateur": "Junichi Masuda",
+        "Compositeur": "Go Ichinose",
+        "Genre": "RPG",
+        "DateSortie": "19 mars 2003",
+        "Modes": "Solo, Multijoueur",
+        "Plateformes": "Game Boy Advance",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB E",
+        "Site": ""
+    }, 
+
+    {
+        "id": "15",
+        "Nom": "Mario Kart Wii",
+        "Image": "./img/jeux2/MarioKartWii.png",
+        "Dev": "Nintendo EAD",
+        "Realisateur": "Hideki Konno",
+        "Compositeur": "Asuka Ota",
+        "Genre": "Course",
+        "DateSortie": "27 avril 2008",
+        "Modes": "1 à 4 joueurs",
+        "Plateformes": "Wii",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB eC",
+        "Site": ""
+    }, 
+
+    {
+        "id": "16",
+        "Nom": "God of War",
+        "Image": "./img/jeux2/GodOfWar.png",
+        "Dev": "Santa Monica Studio",
+        "Realisateur": "Cory Barlog",
+        "Compositeur": "Bear McCreary",
+        "Genre": "Action-aventure",
+        "DateSortie": "20 avril 2018",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 4",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.playstation.com/en-ca/god-of-war/"
+    }, 
+
+    {
+        "id": "17",
+        "Nom": "Ghost of Tsushima",
+        "Image": "./img/jeux2/GhostOfTsushima.png",
+        "Dev": "Sucker Punch Productions",
+        "Realisateur": "Nate Fox",
+        "Compositeur": "Shigeru Umebayashi",
+        "Genre": "Action-aventure",
+        "DateSortie": "17 juillet 2020",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 4",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.suckerpunch.com/category/games/ghost-of-tsushima/"
+    }, 
+
+    {
+        "id": "18",
+        "Nom": "Stray",
+        "Image": "./img/jeux2/Stray.png",
+        "Dev": "BlueTwelve Studio",
+        "Realisateur": "Steven Lerner",
+        "Compositeur": "Yann Van Der Cruyssen",
+        "Genre": "Aventure",
+        "DateSortie": "19 juillet 2022",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 4, PC",
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB 10+",
+        "Site": "https://stray.game"
+    }, 
+
+    {
+        "id": "19",
+        "Nom": "Marvel's Spider-Man : Miles Morales",
+        "Image": "./img/jeux2/SpiderManMilesMorales.png",
+        "Dev": "Insomniac Games",
+        "Realisateur": "Peter Rosas",
+        "Compositeur": "John Paesano",
+        "Genre": "Action-aventure",
+        "DateSortie": "12 novembre 2020",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 4",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB T",
+        "Site": "https://insomniac.games/game/marvels-spider-man-miles-morales/"
+    }, 
+
+    {
+        "id": "20",
+        "Nom": "Octopath Traveler",
+        "Image": "./img/jeux2/OctopathTraveler.png",
+        "Dev": "Square Enix Business Divison",
+        "Realisateur": "Keisuke Miyauchi",
+        "Compositeur": "Yasunori Nishiki",
+        "Genre": "Rôle",
+        "DateSortie": "12 juillet 2018",
+        "Modes": "Solo",
+        "Plateformes": "Nintendo Switch",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB E10+",
+        "Site": "https://www.nintendo.fr/Jeux/Jeux-Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html"
+    }, 
+
+    {
+        "id": "21",
+        "Nom": "Donkey Kong Country",
+        "Image": "./img/jeux2/DonkeyKong.png",
+        "Dev": "Rare",
+        "Realisateur": "Tim Stamper",
+        "Compositeur": "David Wise",
+        "Genre": "Plateforme",
+        "DateSortie": "25 novembre 1994",
+        "Modes": "Solo, Coopératif",
+        "Plateformes": "SNES",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB eC",
+        "Site": ""
+    }, 
+
+    {
+        "id": "22",
+        "Nom": "Gears of War 3",
+        "Image": "./img/jeux2/GearsOfWar3.png",
+        "Dev": "Epic Games",
+        "Realisateur": "Cliff Bleszinski",
+        "Compositeur": "Steve Jablonsky",
+        "Genre": "FPS",
+        "DateSortie": "20 septembre 2011",
+        "Modes": "Solo, Multijoueur",
+        "Plateformes": "Xbox 360",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.gearsofwar.com"
+    }, 
+
+    {
+        "id": "23",
+        "Nom": "Halo 3",
+        "Image": "./img/jeux2/Halo3.png",
+        "Dev": "Bungie Studios",
+        "Realisateur": "Jason Jones",
+        "Compositeur": "Martin O’Donnell",
+        "Genre": "FPS",
+        "DateSortie": "25 septembre 2007",
+        "Modes": "1 à 16 joueurs",
+        "Plateformes": "Xbox 360",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.bungie.net/7"
+    }, 
+
+    {
+        "id": "24",
+        "Nom": "The last of us",
+        "Image": "./img/jeux2/TheLastOfUs.png",
+        "Dev": "Naughty Dog",
+        "Realisateur": "Neil Druckmann",
+        "Compositeur": "Gustavo Santaolalla",
+        "Genre": "Survival horror",
+        "DateSortie": "14 juin 2013",
+        "Modes": "Solo",
+        "Plateformes": "PlayStation 3",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB M",
+        "Site": "https://www.thelastofus.com"
+    },
+    {
+        "id": "25",
+        "Nom": "Chrono Trigger",
+        "Image": "./img/jeux2/ChronoTrigger.png",
+        "Dev": "Square",
+        "Realisateur": "Kazuhiko Aoki",
+        "Compositeur": "Yasunori Mitsuda",
+        "Genre": "Jeu de rôle",
+        "DateSortie": "11 août 1995",
+        "Modes": "Solo",
+        "Plateformes": "SNES",            
+        "Langue": "Multilingue", 
+        "Evaluation": "ESRB T",
+        "Site": "https://www.jp.square-enix.com/chronotrigger/"
+    }
+
+    
+
+]
+
+   
